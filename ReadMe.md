@@ -11,7 +11,9 @@
 
 - I’m looking to collaborate with other content creators 👯
 
+
 - Fun fact: I love to draw and hike ⚡
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="500" height="320" />
 
 ## Connect With Me!
 <a href="https://www.linkedin.com/in/anaeabad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
