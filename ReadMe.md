@@ -1,7 +1,8 @@
 <p align="center"><a href=""><img width="80%" src="./assets/helloWorld.PNG"/></a></p>
 
-# Who Am I ?
  <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="500" height="320" />
+
+# Who Am I ?
 - I'm a...
 
 - Developer 💻,
